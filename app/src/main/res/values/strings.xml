@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    
+    <string name="matricula">Matricula</string>
+    <string name="txt_matricula">Matricula</string>
+    <string name="password">Contraseña</string>
+</resources>
